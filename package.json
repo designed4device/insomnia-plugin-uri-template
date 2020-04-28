@@ -1,0 +1,14 @@
+{
+  "name": "insomna-plugin-uri-template",
+  "version": "1.0.0",
+  "main": "plugin.js",
+
+  "insomnia": {
+    "name": "uri-template",
+    "description": "Adds some support for URI Templates received from a chained response"
+  },
+
+  "dependencies": {
+    "uri-template": "1.0.1"
+  }
+}
